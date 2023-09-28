@@ -1,50 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ksport1hd" group-logo="http://get.vuitv.pro/logowintv/K%2B.png" group-title="K+" tvg-logo="https://api.vuitv.pro/api/livetv/image/T3A0ELQp3FPGk4wczgVEM0NrPicrSzEf4sy5MU24.png" ,K+ Sport 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/4.9.1 Android/10 SgApp/10.1 (vstv)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="🔴| K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2009_to_2016.svg/2560px-Logo_K%2B_from_2009_to_2016.svg.png", K+Cine
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://wintv.fun/index.php?api=&key=ksport1hd.mpd
-http://wintv.fun/index.php?api=&getlink=ksport1hd.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "rNLT0fBeQLOiHILcLt2EWg", "kid": "KCL6NGCFEKHi0oeoxgPTIA"}, {"kty": "oct", "k": "zd3EV24wkxB1xRe998vSyg", "kid": "cGb6NGCFEKHi0oeoxgPTIA"}, {"kty": "oct", "k": "lwr28l3mSxilUeQTqtl7oA", "kid": "fWo+ZWCFEKHi0oeoxgPTIA"}, {"kty": "oct", "k": "ktgiOizMSX188ZdboSMraA", "kid": "aXc+fa+FEKHi0oeoxgPTIA"}], "type": "temporary"}
+https://akaothers.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
-#EXTINF:-1 tvg-id="ksport2hd" group-logo="" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2.png" ,K+ Sport 2 HD
-#EXTVLCOPT:http-user-agent=okhttp/4.9.1 Android/10 SgApp/10.1 (vstv)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="🔴| K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png", Cartoon Network (K+)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://wintv.fun/index.php?api=&key=ksport2hd.mpd
-http://wintv.fun/index.php?api=&getlink=ksport2hd.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "lifSWm5SHazqJstZ6U22rg", "kid": "DQvuCN4+NJOWKhX5NaTfVg"}], "type": "temporary"}
+https://hbolive.kplus.vn/msky-live/live_kplus/cn.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cinehd" group-logo="" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/8z1f0fys_banner9f65603d1e046826129d3ef9956f5b8b.png" ,K+Cine HD
-#EXTVLCOPT:http-user-agent=okhttp/4.9.1 Android/10 SgApp/10.1 (vstv)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="🔴| K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2009_to_2016.svg/2560px-Logo_K%2B_from_2009_to_2016.svg.png", K+Live 1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://wintv.fun/index.php?api=&key=cinehd.mpd
-http://wintv.fun/index.php?api=&getlink=cinehd.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "dmp6prmr4QliOzzggkupjQ", "kid": "lyUbdnxAQ3GgzwzyX//fNg"}, {"kty": "oct", "k": "+TCOiAyPnaUkGdOp99iOjA", "kid": "32kbdnxAQ3GgzwzyX//fNg"}, {"kty": "oct", "k": "I9i6mGzMXKrjePDxNOH9Sw", "kid": "7G1fp3xAQ3GgzwzyX//fNg"}, {"kty": "oct", "k": "I9j2urVJm71OROxK4gRPsw", "kid": "2Hpfv8tAQ3GgzwzyX//fNg"}], "type": "temporary"}
+https://akavnpt.kplus.vn/bpk-tv/prod_klive1/default/index.mpd?maxrate=3000000
 
-#EXTINF:-1 tvg-id="lifehd" group-logo="" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/21/qvdrfjej_banner8c14595ff1f38fc300635ca9b99ad80a.png" ,K+Life HD
-#EXTVLCOPT:http-user-agent=okhttp/4.9.1 Android/10 SgApp/10.1 (vstv)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="🔴| K+" tvg-logo="https://img.upanh.tv/2023/08/08/download.jpg", K+ SD MYTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://wintv.fun/index.php?api=&key=lifehd.mpd
-http://wintv.fun/index.php?api=&getlink=lifehd.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "M0nc5vCFD1eX13wNeUEgyQ", "kid": "sa+eLZy7QM+EjLFK7EJ19Q"}], "type": "temporary"}
+http://s2129199.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv313&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="kkidshd" group-logo="" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/bnnbx18i_k-kidb515f8f72ae65d5a7bc1414183e7a391.png" ,K+ Kids HD
-#EXTVLCOPT:http-user-agent=okhttp/4.9.1 Android/10 SgApp/10.1 (vstv)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="🔴| K+" tvg-logo="https://img.upanh.tv/2023/08/08/download.jpg", K+2 FHD MYTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://wintv.fun/index.php?api=&key=kkidshd.mpd
-http://wintv.fun/index.php?api=&getlink=kkidshd.mpd
-
-#EXTINF:-1 tvg-id="hbohd" group-logo="http://get.vuitv.pro/logowintv/HBO.png" group-title="HBO GO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/12/m4oqw0d9_hbongagn4f6616f355267f3c46c8ffa59075e7cd.png" ,HBO HD
-#EXTVLCOPT:http-user-agent=okhttp/4.9.1 Android/10 SgApp/10.1 (vstv)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://wintv.fun/index.php?api=&key=hbohd.mpd
-http://wintv.fun/index.php?api=&getlink=hbohd.mpd
-
-#EXTINF:-1 tvg-id="cinemaxhd" group-logo="" group-title="HBO GO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang.png" ,Cinemax HD
-#EXTVLCOPT:http-user-agent=okhttp/4.9.1 Android/10 SgApp/10.1 (vstv)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://wintv.fun/index.php?api=&key=cinemaxhd.mpd
-http://wintv.fun/index.php?api=&getlink=cinemaxhd.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "QaXhw9lcVZV0JJ7bYkW8Qw", "kid": "2t/kWLARQyK1389+GUZgSw"}], "type": "temporary"}
+http://s2129197.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
