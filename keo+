@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="klifehd"tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg" group-title="THỂ THAO", K+LIFE HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeylifehd?key=28/199022112/80keokey
+https://hqth.me/kpluslifehd?id=20/seasonid:4763/live992/life.mpd
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="THỂ THAO"logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg",K+ SPORT1 HD
+#KODIPROP:inputstream.adaptive.ifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeysports1hd?key99/738829912/20sportskeokey
+https://hqth.me/kplussports1hd?id=klifesports291/seasonid:83112232211/sports.mpd
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="THỂ THAO"tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg",K+SPORT 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeysports2hd?key=66/728819923/32sportskeokey
+https://hqth.me/kplussports2hd?id=klifesports821/seasonid:1777288822/sports.mpd
