@@ -8,15 +8,11 @@ https://akavnpt.kplus.vn/bpk-tv/prod_klive1/default/index.mpd?maxrate=3000000
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭K+" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://i.imgur.com/MbwcLsk.jpg",K+SPORT1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7tJeCwn0Tg2O/VKCz06xkg","kid":"KshlUQDGkb+FXyWpZqIZng"},{"kty": "oct","k":"GRN3e2D2bvL0FTCm3SaXlQ","kid":"cgxlUQDGkb+FXyWpZqIZng"},{"kty":"oct","k":"TEIHBKNOyEsR9wMgTYXTNw","kid":"fxCpggDGkb+FXyWpZqIZng"} ,{"kty":"oct","k":"2RtEqQhJeqA5NDBg6xyRaQ","kid":"ax2pmk/Gkb+FXyWpZqIZng"}],"type":"tạm thời"}  
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭K+" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://i.imgur.com/4cwpDe3.jpg", K+SPORT2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sS7SoTVO5JsDCtQUYeYC7g","kid":"Rc7L2yqNSHtaePqPKkwtqQ"},{"kty":"oct", "k":"15cpQr621RwuL9ocFWU/Rw","kid":"jRLL2yqNSHtaePqPKkwtqQ"},{"kty":"oct","k":"9HI94BIkgpkGryPizPavsQ","kid":"mhYPDCqNSHtaePqPKkwtqQ"},{"kty": "oct","k":"9fnHQzlIxQ6MxmooRojMuw","kid":"hiMPJHmNSHtaePqPKkwtqQ"}],"type":"temporary"}  
@@ -24,15 +20,11 @@ https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://i.imgur.com/tcSVkXd.jpg",K+CINE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"X+2Q/EpS4HhXssZ3DW7Rqw","kid":"vlSlc21yotKzSnQRirJZxQ"},{"kty": "oct","k":"3CgJrpuqMZh2VxPk//BPUA","kid":"Bpilc21yotKzSnQRirJZxQ"},{"kty":"oct","k":"VgrUg4J4XahsFeBMOh7ZlA","kid":"E5zppG1yotKzSnQRirJZxQ"}, {"kty":"oct","k":"MOPM3N0uBHYR6Ry9jsCevg","kid":"/6npvLxyotKzSnQRirJZxQ"}],"type":"temporary"}   
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭K+" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://i.imgur.com/9mHEvwI.jpg",K+LIFE HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JTdbPM2Q+78VC8HXw094gQ","kid":"8nLAogWX/AaqhyOkH6wsqw"},{"kty": "oct","k":"lXaeSJwb1DUliuRvYn2LEA","kid":"OrbAogWX/AaqhyOkH6wsqw"},{"kty":"oct","k":"iAJeoeo5+q+RYfL/zASmLA","kid": "R7oE0wWX/AaqhyOkH6wsqw"},{"kty":"oct","k":"8U5h0+HaY3+9Ljqfp8dLdg","kid":"M8cE61SX/AaqhyOkH6wsqw"}],"type":"temporary"}  
