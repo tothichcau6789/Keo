@@ -8,7 +8,8 @@
 https://akavnpt.kplus.vn/bpk-tv/prod_klive1/default/index.mpd?maxrate=3000000
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://i.imgur.com/MbwcLsk.jpg",K+SPORT1 HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=ANTmedia/20.07
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DpPMIxPZuWn+NjPIEDiKhA", "kid":"XWfOesB6k0vuhC5YwpTiIQ" } ], "type":"temporary" }
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
