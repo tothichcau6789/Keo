@@ -83,3 +83,9 @@ http://s2129199.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv313&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"L8MZNN3NcAV7pp2rgXMHFg", "kid":"7hE1s+02Q8GCCNOUxBHcFw" } ], "type":"tạm thời "}
 http://s7267.cdn.mytvnet.vn:80/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
+
+#EXTINF:-1 group-title="🔴| K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2009_to_2016.svg/2560px-Logo_K%2B_from_2009_to_2016.svg.png", K+2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "QGRc9H4H0knLGyNXPWDXrA", "kid": "0Eh9RdUNoRDtg4ns5P0MRQ"}, {"kty": "oct", "k": "OgI3k8/whYNbbMTWI7qiCA", "kid": "GIx9RdUNoRDtg4ns5P0MRQ"}, {"kty": "oct", "k": "OvDny0yhuqRdidjGwLS0Ig", "kid": "JZDBdtUNoRDtg4ns5P0MRQ"}, {"kty": "oct", "k": "/mRuPv1jfG+I/kQvaTDmGQ", "kid": "EZ3BjiQNoRDtg4ns5P0MRQ"}], "type": "temporary"}
+https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
