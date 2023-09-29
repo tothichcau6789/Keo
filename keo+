@@ -83,30 +83,3 @@ http://s2129199.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv313&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"L8MZNN3NcAV7pp2rgXMHFg", "kid":"7hE1s+02Q8GCCNOUxBHcFw" } ], "type":"tạm thời "}
 http://s7267.cdn.mytvnet.vn:80/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-
-#EXTINF:-1, k+ MyTV
-https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-
-#EXTINF:-1, k+ MyTV
-https://s2129132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-
-#EXTINF:-1, K+ MyTV
-https://s12936.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-
-#EXTINF:-1, K+ MyTV
-https://s12920.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
-
-#EXTINF:-1, K+Cine
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
-
-#EXTINF:-1, K+Life
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
-
-#EXTINF:-1, K+Sport1
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-
-#EXTINF:-1, K+Sport2
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-
-#EXTINF:-1, K+Kids
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
