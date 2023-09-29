@@ -63,7 +63,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
 #EXTVLCOPT:http-user-agent=ANTmedia/20.07
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DpPMIxPZuWn+NjPIEDiKhA", "kid":"XWfOesB6k0vuhC5YwpTiIQ" } ], "type":"temporary" }
-https://akaviettel.kplus.vn/prod_kplus_sport1hd/default/index.mpd
+https://akaviettel.kplus.vn/prod_kplus_sport2hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍬K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://i.imgur.com/2XFBsoG.jpg", K+ SPORT2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
