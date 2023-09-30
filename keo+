@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1 url="https://s.id/vbk-plus"
+#EXTM3U  url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml,https://khanggtivi.xyz/schedule/khanggtivi_epg.xml" tvg-shift=0 m3uautoload=1 url="https://s.id/vbk-plus"
 
 #EXTINF:-1 group-title="🔴| K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2009_to_2016.svg/2560px-Logo_K%2B_from_2009_to_2016.svg.png", K+Live 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
