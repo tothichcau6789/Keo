@@ -138,7 +138,8 @@ https://akaviettel.kplus.vn/bpk-tv/prod_klive2/default/index.mpd
 https://akaviettel.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
 
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/99.png", K+SPORT2 HD - MyK+
+EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/99.png", K+SPORT2 HD - MyK+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://i.imgur.com/4cwpDe3.jpg", K+SPORT2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=ANTmedia/20.07
 #KODIPROP:inputstream.adaptive.license_type=clearkey
