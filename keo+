@@ -95,9 +95,8 @@ https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://i.imgur.com/4cwpDe3.jpg", K+SPORT2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=ANTmedia/20.07
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ljf99Xa20TNG+l5eyiJqFA","kid":"2CMiUnn59ugsolg9i93l+g"},{"kty":"oct","k":"3T28AZtkziO+PekyQ01nJw","kid":"IGciUnn59ugsolg9i93l+g"},{"kty":"oct","k":"yVxTcnfwWrYQu0mri9V/uQ","kid":"LWtmg3n59ugsolg9i93l+g"},{"kty":"oct","k":"q8/1BfEQe3H9N7BKy31QiQ","kid":"GXhmm8j59ugsolg9i93l+g"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
