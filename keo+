@@ -99,7 +99,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ljf99Xa20TNG+l5eyiJqFA"vbk, "kid":"2CMiUnn59ugsolg9i93l+g" } ], "type":"temporary" } 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ljf99Xa20TNG+l5eyiJqFA", "kid":"2CMiUnn59ugsolg9i93l+g" } ], "type":"temporary" } 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://i.imgur.com/tcSVkXd.jpg",K+CINE HD
