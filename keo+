@@ -1,189 +1,106 @@
 #EXTM3U  url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1 url="https://s.id/vbk-plus"
 
-#EXTINF:-1 group-title="🔴| K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2009_to_2016.svg/2560px-Logo_K%2B_from_2009_to_2016.svg.png", K+Live 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=ANTmedia/20.07
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "dmp6prmr4QliOzzggkupjQ", "kid": "lyUbdnxAQ3GgzwzyX//fNg"}, {"kty": "oct", "k": "+TCOiAyPnaUkGdOp99iOjA", "kid": "32kbdnxAQ3GgzwzyX//fNg"}, {"kty": "oct", "k": "I9i6mGzMXKrjePDxNOH9Sw", "kid": "7G1fp3xAQ3GgzwzyX//fNg"}, {"kty": "oct", "k": "I9j2urVJm71OROxK4gRPsw", "kid": "2Hpfv8tAQ3GgzwzyX//fNg"}], "type": "temporary"}
-https://akavnpt.kplus.vn/bpk-tv/prod_klive1/default/index.mpd?maxrate=3000000
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK - SKY NEWS" tvg-logo="http://logo.protv.cc/picons-dino/logos/skynewshd.png" group-title="|UK| ENTERTAINMENT",UK - SKY NEWS
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577515
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK - SKY ARTS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skyartshd.png" group-title="|UK| ENTERTAINMENT",UK - SKY ARTS FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577513
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK - SKY ATLANTIC FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skyatlantichd.png" group-title="|UK| ENTERTAINMENT",UK - SKY ATLANTIC FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577512
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK - SKY WITNESS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skywitnesshd.png" group-title="|UK| ENTERTAINMENT",UK - SKY WITNESS UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577511
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SHOWCASE" tvg-logo="http://logo.protv.cc/picons/logos/SKY-SHOWCASE.png" group-title="|UK| ENTERTAINMENT",UK - SKY SHOWCASE
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/851517
+#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="UK - SKY MAX" tvg-logo="http://logo.protv.cc/picons/logos/SKY-MAX.png" group-title="|UK| ENTERTAINMENT",UK - SKY MAX
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/780566
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://i.imgur.com/MbwcLsk.jpg",K+SPORT1 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=ANTmedia/20.07
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sU1Fq+Zjt7GxznYr42BbXg","kid":"SqrhGwI/QtsUlgTkb+qJBw"},{"kty":"oct","k":"SIk49PbP2kgOr5+Ar1/nXQ","kid":"ku7hGwI/QtsUlgTkb+qJBw"},{"kty":"oct","k":"hDLy8qU2+tavZ2eBFlYUtQ","kid":"n/IlTAI/QtsUlgTkb+qJBw"},{"kty":"oct","k":"gjH0YoemcHET8KCT764slg","kid":"i/8lZFE/QtsUlgTkb+qJBw"}],"type":"temporary"}
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - SKY SPORTS MAIN EVENTS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmaineventhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS MAIN EVENTS UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577997
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsplhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS PL UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577996
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK - SKY SPORTS FOOTBALL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsfootballhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS FOOTBALL UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577995
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsnewshd.png" group-title="|UK| SPORTS",UK - SKY SPORTS NEWS UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577994
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS NFL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport.png" group-title="|UK| SPORTS",UK - SKY SPORTS NFL UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577993
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsarenahd.png" group-title="|UK| SPORTS",UK - SKY SPORTS ARENA UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577992
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportscrickethd.png" group-title="|UK| SPORTS",UK - SKY SPORTS CRICKET UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577991
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS F1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsf1hd.png" group-title="|UK| SPORTS",UK - SKY SPORTS F1 UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577990
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmixhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS MIX UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577989
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsracinghd.png" group-title="|UK| SPORTS",UK - SKY SPORTS RACING UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577988
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsgolfhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS GOLF UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577987
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭K+" tvg-logo="https://cdn.antmediatv.xyz/99.png", K+SPORT2 HD - MyK+
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=ANTmedia/20.07
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ljf99Xa20TNG+l5eyiJqFA","kid":"2CMiUnn59ugsolg9i93l+g"},{"kty":"oct","k":"3T28AZtkziO+PekyQ01nJw","kid":"IGciUnn59ugsolg9i93l+g"},{"kty":"oct","k":"yVxTcnfwWrYQu0mri9V/uQ","kid":"LWtmg3n59ugsolg9i93l+g"},{"kty":"oct","k":"q8/1BfEQe3H9N7BKy31QiQ","kid":"GXhmm8j59ugsolg9i93l+g"}],"type":"temporary"}
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://i.imgur.com/tcSVkXd.jpg",K+CINE HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=ANTmedia/20.07
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MLkJByBGKX_LAuLoG6hsnQ","k":"tBGJr2tlyxA-y-HnLVvcDw"},{"kty":"oct","kid":"eP0JByBGKX_LAuLoG6hsnQ","k":"-UDoLTA6JZIdztyUYldzPw"},{"kty":"oct","kid":"hQFNOCBGKX_LAuLoG6hsnQ","k":"0Gv32aL_KPORXhaelqxJdg"},{"kty":"oct","kid":"cQ5NUG9GKX_LAuLoG6hsnQ","k":"oXqJxuFWzbe6ps8V9hermA"}],"type":"temporary"}
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
-
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://i.imgur.com/9mHEvwI.jpg",K+LIFE HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=ANTmedia/20.07
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ql/OMEO2c/dTWgDZhkih8w","kid":"SNi80UYKV5OiBH1zfohqWA"},{"kty":"oct","k":"M1HEm1gMuoDuuz7bI4YrAA","kid":"kBy80UYKV5OiBH1zfohqWA"},{"kty":"oct","k":"9cAcFokN5OW9bfk9RrQbNQ","kid":"nSAAAkYKV5OiBH1zfohqWA"},{"kty":"oct","k":"iCOP2D1KU/FmoZ+ezwgXxw","kid":"iS0AGpUKV5OiBH1zfohqWA"}],"type":"temporary"}
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
-
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭K+" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://i.imgur.com/bD895dn.jpg", K+KIDS HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=ANTmedia/20.07
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HyrYYAeDef24aZMiT8CLSQ","kid":"c/xxYCC6ka0I68mUCyIgAQ"},{"kty":"oct","k":"rtUGgCKdxgCmM0aWjILVuQ","kid":"u0BxYCC6ka0I68mUCyIgAQ"},{"kty":"oct","k":"HckZO2rvuU3uIP81M8HLeQ","kid":"yES1kSC6ka0I68mUCyIgAQ"},{"kty":"oct","k":"4gyETqkPalZ3f0etddlvDQ","kid":"tFG1qW+6ka0I68mUCyIgAQ"}],"type":"temporary"}
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
-
-#EXTINF:-1 tvg-id="klive1hd" group-title="🍭K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KLIVE%201.png&w=68", K+Live 1
-#KODIPROP:inputstream.adaptive.manifest_type=dấu gạch ngang
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "dmp6prmr4QliOzzggkupjQ", "kid": "lyUbdnxAQ3GgzwzyX//fNg"}, {"kty": " oct", "k": "+TCOiAyPnaUkGdOp99iOjA", "kid": "32kbdnxAQ3GgzwzyX//fNg"}, {"kty": "oct", "k": "I9i6mGzMXKrjePDxNOH9Sw", "kid": "7G1fp3xAQ3GgzwzyX//fNg "}, {"kty": "oct", "k": "I9j2urVJm71OROxK4gRPsw", "kid": "2Hpfv8tAQ3GgzwzyX//fNg"}], "type": "tạm thời"}
-https://akavnpt.kplus.vn/bpk-tv/prod_klive1/default/index.mpd?maxrate=3000000
-
-#EXTINF:-1 tvg-id="klive2hd" group-title="🍭K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KLIVE%202.png&w=68", K+Live 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dDne6KZ62B+Zto18e/p50g", "kid":"QXSdPAX5TOyqmN8rMVrTCQ" } ], "type":"temporary" }
-https://akaviettel.kplus.vn/bpk-tv/prod_klive2/default/index.mpd
-
-#EXTINF:-1 tvg-id="klive3hd" group-title="🍭K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KLIVE%203.png&w=68", K+Live 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jhwqqk/xL0jngyEDMeCguQ", "kid":"jcHanGFdRuGVteyGkVB4hw" } ], "type":"temporary" }
-https://akaviettel.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🔴| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
-#EXTVLCOPT:http-user-agent=PlayerToken/2.17.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.khanggtivi.xyz/clearkey/?username=donwin27892&password=123123@&t=896c522ffade759de4e9188281eb3270a756bcd0&id=kcine
-https://akavnpt.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
-
-#EXTINF:-1 tvg-id="klifehd" group-title="🔴| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - MyK+
-#EXTVLCOPT:http-user-agent=PlayerToken/2.17.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.khanggtivi.xyz/clearkey/?username=donwin27892&password=123123@&t=896c522ffade759de4e9188281eb3270a756bcd0&id=klife
-https://akavnpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🔴| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
-#EXTVLCOPT:http-user-agent=PlayerToken/2.17.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.khanggtivi.xyz/clearkey/?username=donwin27892&password=123123@&t=896c522ffade759de4e9188281eb3270a756bcd0&id=ksports1
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🔴| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
-#EXTVLCOPT:http-user-agent=PlayerToken/2.17.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.khanggtivi.xyz/clearkey/?username=donwin27892&password=123123@&t=896c522ffade759de4e9188281eb3270a756bcd0&id=ksports2
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="kkidshd" group-title="🔴| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
-#EXTVLCOPT:http-user-agent=PlayerToken/2.17.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.khanggtivi.xyz/clearkey/?username=donwin27892&password=123123@&t=896c522ffade759de4e9188281eb3270a756bcd0&id=kkids
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://i.imgur.com/MbwcLsk.jpg",K+SPORT1 HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sU1Fq+Zjt7GxznYr42BbXg", "kid":"SqrhGwI/QtsUlgTkb+qJBw" } ], "type":"temporary" } 
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://i.imgur.com/4cwpDe3.jpg", K+SPORT2 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=ANTmedia/20.07
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ljf99Xa20TNG+l5eyiJqFA","kid":"2CMiUnn59ugsolg9i93l+g"},{"kty":"oct","k":"3T28AZtkziO+PekyQ01nJw","kid":"IGciUnn59ugsolg9i93l+g"},{"kty":"oct","k":"yVxTcnfwWrYQu0mri9V/uQ","kid":"LWtmg3n59ugsolg9i93l+g"},{"kty":"oct","k":"q8/1BfEQe3H9N7BKy31QiQ","kid":"GXhmm8j59ugsolg9i93l+g"}],"type":"temporary"}
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://i.imgur.com/tcSVkXd.jpg",K+CINE HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tBGJr2tlyxA+y+HnLVvcDw", "kid":"MLkJByBGKX/LAuLoG6hsnQ" } ], "type":"temporary" } 
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
-
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://i.imgur.com/9mHEvwI.jpg",K+LIFE HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"iCOP2D1KU/FmoZ+ezwgXxw", "kid":"iS0AGpUKV5OiBH1zfohqWA" }, { "kty":"oct", "k":"ql/OMEO2c/dTWgDZhkih8w", "kid":"SNi80UYKV5OiBH1zfohqWA" },{ "kty":"oct", "k":"M1HEm1gMuoDuuz7bI4YrAA", "kid":"kBy80UYKV5OiBH1zfohqWA" }], "type":"temporary" } 
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
-
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://i.imgur.com/bD895dn.jpg", K+KIDS HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4gyETqkPalZ3f0etddlvDQ", "kid":"tFG1qW+6ka0I68mUCyIgAQ" },{ "kty":"oct", "k":"HyrYYAeDef24aZMiT8CLSQ", "kid":"c/xxYCC6ka0I68mUCyIgAQ" },{ "kty":"oct", "k":"rtUGgCKdxgCmM0aWjILVuQ", "kid":"u0BxYCC6ka0I68mUCyIgAQ" }], "type":"temporary" } 
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
-
-#EXTINF:-1 tvg-id="klive1hd" group-title="K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KLIVE%201.png&w=68", K+Live 1
-#KODIPROP:inputstream.adaptive.manifest_type=dấu gạch ngang
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "dmp6prmr4QliOzzggkupjQ", "kid": "lyUbdnxAQ3GgzwzyX//fNg"}, {"kty": " oct", "k": "+TCOiAyPnaUkGdOp99iOjA", "kid": "32kbdnxAQ3GgzwzyX//fNg"}, {"kty": "oct", "k": "I9i6mGzMXKrjePDxNOH9Sw", "kid": "7G1fp3xAQ3GgzwzyX//fNg "}, {"kty": "oct", "k": "I9j2urVJm71OROxK4gRPsw", "kid": "2Hpfv8tAQ3GgzwzyX//fNg"}], "type": "tạm thời"}
-https://akavnpt.kplus.vn/bpk-tv/prod_klive1/default/index.mpd?maxrate=3000000
-#EXTINF:-1 tvg-id="klive2hd" group-title="K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KLIVE%202.png&w=68", K+Live 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dDne6KZ62B+Zto18e/p50g", "kid":"QXSdPAX5TOyqmN8rMVrTCQ" } ], "type":"temporary" }
-https://akaviettel.kplus.vn/bpk-tv/prod_klive2/default/index.mpd
-
-#EXTINF:-1 tvg-id="klive3hd" group-title="K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KLIVE%203.png&w=68", K+Live 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jhwqqk/xL0jngyEDMeCguQ", "kid":"jcHanGFdRuGVteyGkVB4hw" } ], "type":"temporary" }
-https://akaviettel.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - SKY SPORTS MAIN EVENT FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmaineventhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS MAIN EVENT FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577978
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsplhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS PL FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577977
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK - SKY SPORTS FOOTBALL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsfootballhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS FOOTBALL FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577976
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS NFL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport.png" group-title="|UK| SPORTS",UK - SKY SPORTS NFL FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577975
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsarenahd.png" group-title="|UK| SPORTS",UK - SKY SPORTS ARENA FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577974
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportscrickethd.png" group-title="|UK| SPORTS",UK - SKY SPORTS CRICKET FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577973
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS F1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsf1hd.png" group-title="|UK| SPORTS",UK - SKY SPORTS F1 FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577972
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsgolfhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS GOLF FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577971
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmixhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS MIX FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577970
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsnewshd.png" group-title="|UK| SPORTS",UK - SKY SPORTS NEWS FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577969
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsracinghd.png" group-title="|UK| SPORTS",UK - SKY SPORTS RACING FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577968
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS ACTION FHD" tvg-logo="http://logo.protv.cc/picons/logos/skysportsactionhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS ACTION FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/726827
 
 
-EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/99.png", K+SPORT2 HD - MyK+
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://i.imgur.com/4cwpDe3.jpg", K+SPORT2 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=ANTmedia/20.07
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ljf99Xa20TNG+l5eyiJqFA","kid":"2CMiUnn59ugsolg9i93l+g"},{"kty":"oct","k":"3T28AZtkziO+PekyQ01nJw","kid":"IGciUnn59ugsolg9i93l+g"},{"kty":"oct","k":"yVxTcnfwWrYQu0mri9V/uQ","kid":"LWtmg3n59ugsolg9i93l+g"},{"kty":"oct","k":"q8/1BfEQe3H9N7BKy31QiQ","kid":"GXhmm8j59ugsolg9i93l+g"}],"type":"temporary"}
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-
-#https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-
-
-
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png",K+ SPORT1 iptv4k
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eV90m7/umJnSBVDfbUV0Fg", "kid":"pldZ4QBKTnu2WasdoAKMeA" } ], "type":"temporary" }
-http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2022/07/14/9dzfyde9_microsoftteams-image_138.webp", K+ Cine
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NyACsnBwuMz/0pwu0GlnXg", "kid":"WhwfA6cySzGfiSNImdSx/A" } ], "type":"temporary" }
-http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/nu0avjkh_bannerk1life60df21b42a53b927041becc5c1a794ee_296_168.webp", K+ Life
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"W8PQavWcSrPT2sIwFf0C+Q", "kid":"+aYlIDb2TzazduT5++WDxw" } ], "type":"temporary" }
-http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🅺✚" tvg-logo="http://gg.gg/k2sport", K+SPORT 2 MYTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"aCn6RuQBRKzgJsXejhAKUA", "kid":"9OzdoHsdQ+aZ/xxCOiJmLA" } ], "type":"temporary"} 
-http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+ CINE MYTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NyACsnBwuMz/0pwu0GlnXg", "kid":"WhwfA6cySzGfiSNImdSx/A" } ], "type":"temporary" }
-http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp" group-title="🅺✚", K+LIFE MYTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"W8PQavWcSrPT2sIwFf0C+Q", "kid":"+aYlIDb2TzazduT5++WDxw" } ], "type":"temporary" }
-http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS VARIETY 4 HD" tvg-logo="" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS VARIETY 4 HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828102
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS VARIETY 3 HD" tvg-logo="" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS VARIETY 3 HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828103
+#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="UK - SUPERSPORTS VARIETY 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_variety-2.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS VARIETY 2 HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828104
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS VARIETY 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_variety-1.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS VARIETY 1 HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828105
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS CRICKET HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_cricket.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS CRICKET HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828106
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS RUGBY HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_rugby.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS RUGBY HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828107
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS FOOTBALL HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_football.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS FOOTBALL HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828108
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS MOTORSPORT HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/supersport-motorsport.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS MOTORSPORT HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828109
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS GRANDSTAND HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_grandstand.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS GRANDSTAND HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828110
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS GOLF HD" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-GOLF-TV.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS GOLF HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828111
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS PSL HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_psl.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS PSL HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828112
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS BLITZ HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_blitz.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS BLITZ HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828113
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS TENNIS HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/supersport_tennis.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS TENNIS HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828114
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS LIGA HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_liga.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS LIGA HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828115
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS PL HD" tvg-logo="" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS PL HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828116
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS PLAY 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_2.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS PLAY 2 HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828117
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPER SPORTS PLAY 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_1.png" group-title="|UK| WORLD SPORTS",UK - SUPER SPORTS PLAY 1 HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828118
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS ACTION HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_action.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS ACTION HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828119
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS MAXIMO HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_maximo.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS MAXIMO HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828120
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS EVENTS HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/supersport.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS EVENTS HD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828121
+#EXTINF:-1 tvg-id="" tvg-name="##### SUPER SPORTS #####" tvg-logo="http://logo.protv.cc/picons/logos/UK/supersport.png" group-title="|UK| WORLD SPORTS", SUPER SPORTS
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828122
