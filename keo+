@@ -1,5 +1,10 @@
 #EXTM3U  url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1 url="https://s.id/vbk-plus"
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",skygo f1 4K 50 FPS
+http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=494214&extension=ts&play_token=kMlwxSstAF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",sky sport f1
+http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:39:EF:39&stream=523239&extension=ts&play_token=lQXK4DyeV8
+
 #EXTINF:-1 tvg-id="uk.Sky Action HD" tvg-name="UK - SKY CINEMA ACTION UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemaactionhd.png" group-title="|UK| MOVIES",UK - SKY CINEMA ACTION UHD
 http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577387
 #EXTINF:-1 tvg-id="uk.Sky Comedy HD" tvg-name="UK - SKY CINEMA COMEDY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemacomedy.png" group-title="|UK| MOVIES",UK - SKY CINEMA COMEDY UHD
