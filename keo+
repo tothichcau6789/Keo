@@ -1,5 +1,62 @@
 #EXTM3U  url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1 url="https://s.id/vbk-plus"
 
+#EXTINF:-1 tvg-id="uk.Sky Action HD" tvg-name="UK - SKY CINEMA ACTION UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemaactionhd.png" group-title="|UK| MOVIES",UK - SKY CINEMA ACTION UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577387
+#EXTINF:-1 tvg-id="uk.Sky Comedy HD" tvg-name="UK - SKY CINEMA COMEDY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemacomedy.png" group-title="|UK| MOVIES",UK - SKY CINEMA COMEDY UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577385
+#EXTINF:-1 tvg-id="UK| SKY CINEMA DRAMA" tvg-name="UK - SKY CINEMA DRAMA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemadrama.png" group-title="|UK| MOVIES",UK - SKY CINEMA DRAMA UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577383
+#EXTINF:-1 tvg-id="UK| SKY CINEMA GREATS" tvg-name="UK - SKY CINEMA GREATS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemagreats.png" group-title="|UK| MOVIES",UK - SKY CINEMA GREATS UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577382
+#EXTINF:-1 tvg-id="DE| SKY CINEMA HITS" tvg-name="UK - SKY CINEMA HITS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemahits.png" group-title="|UK| MOVIES",UK - SKY CINEMA HITS UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577381
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA OSCARS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemaoscars.png" group-title="|UK| MOVIES",UK - SKY CINEMA OSCARS UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577380
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK - SKY CINEMA PREMIERE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemapremiere.png" group-title="|UK| MOVIES",UK - SKY CINEMA PREMIERE UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577379
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK - SKY CINEMA SCIFI HORROR UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemascifiandhorror.png" group-title="|UK| MOVIES",UK - SKY CINEMA SCIFI HORROR UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577378
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA SELECT/OSCARS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemaselecthd.png" group-title="|UK| MOVIES",UK - SKY CINEMA SELECT/OSCARS FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577377
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK - SKY CINEMA THRILLER UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemathriller.png" group-title="|UK| MOVIES",UK - SKY CINEMA THRILLER UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577376
+#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="UK - SKY DOCUMENTARIES FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SKY-DOCUMENTARIES.png" group-title="|UK| MOVIES",UK - SKY DOCUMENTARIES FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577374
+
+#EXTINF:-1 tvg-id="uk.Sky Action HD" tvg-name="UK - SKY CINEMA ACTION FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemaaction.png" group-title="|UK| MOVIES",UK - SKY CINEMA ACTION FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577372
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK - SKY CINEMA COMEDY FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemacomedy.png" group-title="|UK| MOVIES",UK - SKY CINEMA COMEDY FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577371
+#EXTINF:-1 tvg-id="uk.Sky Disney HD" tvg-name="UK -  SKY WITNESS  FHD" tvg-logo="" group-title="|UK| MOVIES",UK -  SKY WITNESS  FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577370
+#EXTINF:-1 tvg-id="uk.Sky DraRomHD" tvg-name="UK - SKY CINEMA DRAMA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemadrama.png" group-title="|UK| MOVIES",UK - SKY CINEMA DRAMA FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577369
+#EXTINF:-1 tvg-id="uk.Sky Family" tvg-name="UK - SKY CINEMA FAMILY FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemafamilyhd.png" group-title="|UK| MOVIES",UK - SKY CINEMA FAMILY FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577368
+#EXTINF:-1 tvg-id="uk.Sky Greats HD" tvg-name="UK - SKY CINEMA GREATS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemagreatshd.png" group-title="|UK| MOVIES",UK - SKY CINEMA GREATS FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577367
+#EXTINF:-1 tvg-id="de.Sky Cinema Hits" tvg-name="UK - SKY CINEMA HITS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemahits.png" group-title="|UK| MOVIES",UK - SKY CINEMA HITS FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577366
+#EXTINF:-1 tvg-id="uk.Sky Premiere" tvg-name="UK - SKY CINEMA PREMIER FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemapremierehd.png" group-title="|UK| MOVIES",UK - SKY CINEMA PREMIER FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577365
+#EXTINF:-1 tvg-id="UK| SKY CINEMA SCI-FI" tvg-name="UK - SKY CINEMA SCI-FI FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemascifiandhorror.png" group-title="|UK| MOVIES",UK - SKY CINEMA SCI-FI FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577364
+#EXTINF:-1 tvg-id="uk.Sky Thriller" tvg-name="UK - SKY CINEMA THRILLER FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemathrillerhd.png" group-title="|UK| MOVIES",UK - SKY CINEMA THRILLER FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577363
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK - SKY COMEDY FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycomedyhd.png" group-title="|UK| MOVIES",UK - SKY COMEDY FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577362
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="UK - SKY CRIME FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycrime.png" group-title="|UK| MOVIES",UK - SKY CRIME FHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577375
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK - SKY NEWS" tvg-logo="http://logo.protv.cc/picons-dino/logos/skynewshd.png" group-title="|UK| ENTERTAINMENT",UK - SKY NEWS
 http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577515
 #EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK - SKY ARTS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skyartshd.png" group-title="|UK| ENTERTAINMENT",UK - SKY ARTS FHD
