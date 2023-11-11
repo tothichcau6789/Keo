@@ -102,5 +102,44 @@ http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828119
 http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828120
 #EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS EVENTS HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/supersport.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS EVENTS HD
 http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828121
-#EXTINF:-1 tvg-id="" tvg-name="##### SUPER SPORTS #####" tvg-logo="http://logo.protv.cc/picons/logos/UK/supersport.png" group-title="|UK| WORLD SPORTS", SUPER SPORTS
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828122
+
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="UK - SUPERSPORT 4K" tvg-logo="http://logo.protv.cc/picons/logos/supersport1.png" group-title="|UK| SPORTS",UK - SUPERSPORT 4K
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/782724
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT MAXIMO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT MAXIMO UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577934
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT ACTION UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT ACTION UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577933
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPER SPORT PLAY 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport1.png" group-title="|UK| SPORTS",UK - SUPER SPORT PLAY 1 UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577932
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS PLAY 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport2.png" group-title="|UK| SPORTS",UK - SUPERSPORTS PLAY 2 UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577931
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT PL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT PL UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577930
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT LIGA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT LIGA UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577929
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT TENNIS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT TENNIS UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577928
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT CRICKET UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT CRICKET UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577916
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS BLITZ UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORTS BLITZ UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577927
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT PSL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT PSL UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577926
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT GOLF UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT GOLF UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577925
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT GRANDSTAND UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT GRANDSTAND UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577924
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport2.png" group-title="|UK| SPORTS",UK - SUPERSPORT VARIETY 2 UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577923
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport1.png" group-title="|UK| SPORTS",UK - SUPERSPORT VARIETY 1 UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577922
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT MOTORSPORT UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT MOTORSPORT UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577921
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT FOOTBALL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT FOOTBALL UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577920
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 4 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport4.png" group-title="|UK| SPORTS",UK - SUPERSPORT VARIETY 4 UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577919
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport3.png" group-title="|UK| SPORTS",UK - SUPERSPORT VARIETY 3 UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577918
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT RUGBY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT RUGBY UHD
+http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577917
