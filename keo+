@@ -5,202 +5,44 @@ http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=494214&ex
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",sky sport f1
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:39:EF:39&stream=523239&extension=ts&play_token=lQXK4DyeV8
 
-#EXTINF:-1 tvg-id="uk.Sky Action HD" tvg-name="UK - SKY CINEMA ACTION UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemaactionhd.png" group-title="|UK| MOVIES",UK - SKY CINEMA ACTION UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577387
-#EXTINF:-1 tvg-id="uk.Sky Comedy HD" tvg-name="UK - SKY CINEMA COMEDY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemacomedy.png" group-title="|UK| MOVIES",UK - SKY CINEMA COMEDY UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577385
-#EXTINF:-1 tvg-id="UK| SKY CINEMA DRAMA" tvg-name="UK - SKY CINEMA DRAMA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemadrama.png" group-title="|UK| MOVIES",UK - SKY CINEMA DRAMA UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577383
-#EXTINF:-1 tvg-id="UK| SKY CINEMA GREATS" tvg-name="UK - SKY CINEMA GREATS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemagreats.png" group-title="|UK| MOVIES",UK - SKY CINEMA GREATS UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577382
-#EXTINF:-1 tvg-id="DE| SKY CINEMA HITS" tvg-name="UK - SKY CINEMA HITS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemahits.png" group-title="|UK| MOVIES",UK - SKY CINEMA HITS UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577381
-#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA OSCARS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemaoscars.png" group-title="|UK| MOVIES",UK - SKY CINEMA OSCARS UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577380
-#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK - SKY CINEMA PREMIERE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemapremiere.png" group-title="|UK| MOVIES",UK - SKY CINEMA PREMIERE UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577379
-#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK - SKY CINEMA SCIFI HORROR UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemascifiandhorror.png" group-title="|UK| MOVIES",UK - SKY CINEMA SCIFI HORROR UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577378
-#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA SELECT/OSCARS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemaselecthd.png" group-title="|UK| MOVIES",UK - SKY CINEMA SELECT/OSCARS FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577377
-#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK - SKY CINEMA THRILLER UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemathriller.png" group-title="|UK| MOVIES",UK - SKY CINEMA THRILLER UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577376
-#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="UK - SKY DOCUMENTARIES FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SKY-DOCUMENTARIES.png" group-title="|UK| MOVIES",UK - SKY DOCUMENTARIES FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577374
+#EXTINF:-1  tvg-id="https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/i.mpd" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BCINE%20HD.png",K+CINE HD
+#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"roOM/RPYtLRL9JY6eHhfUA", "kid":"DibC3DM+R0id4kExw7noHw" } ], "type":"temporary" }
+http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="uk.Sky Action HD" tvg-name="UK - SKY CINEMA ACTION FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemaaction.png" group-title="|UK| MOVIES",UK - SKY CINEMA ACTION FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577372
-#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK - SKY CINEMA COMEDY FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemacomedy.png" group-title="|UK| MOVIES",UK - SKY CINEMA COMEDY FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577371
-#EXTINF:-1 tvg-id="uk.Sky Disney HD" tvg-name="UK -  SKY WITNESS  FHD" tvg-logo="" group-title="|UK| MOVIES",UK -  SKY WITNESS  FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577370
-#EXTINF:-1 tvg-id="uk.Sky DraRomHD" tvg-name="UK - SKY CINEMA DRAMA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemadrama.png" group-title="|UK| MOVIES",UK - SKY CINEMA DRAMA FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577369
-#EXTINF:-1 tvg-id="uk.Sky Family" tvg-name="UK - SKY CINEMA FAMILY FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemafamilyhd.png" group-title="|UK| MOVIES",UK - SKY CINEMA FAMILY FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577368
-#EXTINF:-1 tvg-id="uk.Sky Greats HD" tvg-name="UK - SKY CINEMA GREATS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemagreatshd.png" group-title="|UK| MOVIES",UK - SKY CINEMA GREATS FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577367
-#EXTINF:-1 tvg-id="de.Sky Cinema Hits" tvg-name="UK - SKY CINEMA HITS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemahits.png" group-title="|UK| MOVIES",UK - SKY CINEMA HITS FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577366
-#EXTINF:-1 tvg-id="uk.Sky Premiere" tvg-name="UK - SKY CINEMA PREMIER FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemapremierehd.png" group-title="|UK| MOVIES",UK - SKY CINEMA PREMIER FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577365
-#EXTINF:-1 tvg-id="UK| SKY CINEMA SCI-FI" tvg-name="UK - SKY CINEMA SCI-FI FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemascifiandhorror.png" group-title="|UK| MOVIES",UK - SKY CINEMA SCI-FI FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577364
-#EXTINF:-1 tvg-id="uk.Sky Thriller" tvg-name="UK - SKY CINEMA THRILLER FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycinemathrillerhd.png" group-title="|UK| MOVIES",UK - SKY CINEMA THRILLER FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577363
-#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK - SKY COMEDY FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycomedyhd.png" group-title="|UK| MOVIES",UK - SKY COMEDY FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577362
-#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="UK - SKY CRIME FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skycrime.png" group-title="|UK| MOVIES",UK - SKY CRIME FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577375
+#EXTINF:-1  tvg-id="https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/i.mpd" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BACTION%20HD.png",K+ACTION HD
+#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"idujgHe54YlRNXKcJ2X8nQ", "kid":"79heDyqnQXC313NafOz7JA" } ], "type":"temporary" }
+http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
+
+#EXTINF:-1  tvg-id="https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/i.mpd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BSPORT%201%20HD.png",K+SPORT1 HD
+#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4CUAbzdvHspsMy1ZHTdr/Q", "kid":"iof/eF7cT7yoNgjBaGRlNA" } ], "type":"temporary" }
+http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+
+#EXTINF:-1  tvg-id="https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/i.mpd" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BSPORT%202%20HD.png",K+SPORT2 HD
+#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4PrWoTuIHEg7gKtZ7XdF3A", "kid":"3UPJaQewRDuGEP52SQYVyQ" } ], "type":"temporary" }
+http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK - SKY NEWS" tvg-logo="http://logo.protv.cc/picons-dino/logos/skynewshd.png" group-title="|UK| ENTERTAINMENT",UK - SKY NEWS
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577515
-#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK - SKY ARTS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skyartshd.png" group-title="|UK| ENTERTAINMENT",UK - SKY ARTS FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577513
-#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK - SKY ATLANTIC FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skyatlantichd.png" group-title="|UK| ENTERTAINMENT",UK - SKY ATLANTIC FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577512
-#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK - SKY WITNESS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skywitnesshd.png" group-title="|UK| ENTERTAINMENT",UK - SKY WITNESS UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577511
-#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SHOWCASE" tvg-logo="http://logo.protv.cc/picons/logos/SKY-SHOWCASE.png" group-title="|UK| ENTERTAINMENT",UK - SKY SHOWCASE
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/851517
-#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="UK - SKY MAX" tvg-logo="http://logo.protv.cc/picons/logos/SKY-MAX.png" group-title="|UK| ENTERTAINMENT",UK - SKY MAX
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/780566
-
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - SKY SPORTS MAIN EVENTS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmaineventhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS MAIN EVENTS UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577997
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsplhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS PL UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577996
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK - SKY SPORTS FOOTBALL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsfootballhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS FOOTBALL UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577995
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsnewshd.png" group-title="|UK| SPORTS",UK - SKY SPORTS NEWS UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577994
-#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS NFL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport.png" group-title="|UK| SPORTS",UK - SKY SPORTS NFL UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577993
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsarenahd.png" group-title="|UK| SPORTS",UK - SKY SPORTS ARENA UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577992
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportscrickethd.png" group-title="|UK| SPORTS",UK - SKY SPORTS CRICKET UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577991
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS F1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsf1hd.png" group-title="|UK| SPORTS",UK - SKY SPORTS F1 UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577990
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmixhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS MIX UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577989
-#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsracinghd.png" group-title="|UK| SPORTS",UK - SKY SPORTS RACING UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577988
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsgolfhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS GOLF UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577987
-
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - SKY SPORTS MAIN EVENT FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmaineventhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS MAIN EVENT FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577978
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsplhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS PL FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577977
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK - SKY SPORTS FOOTBALL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsfootballhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS FOOTBALL FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577976
-#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS NFL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport.png" group-title="|UK| SPORTS",UK - SKY SPORTS NFL FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577975
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsarenahd.png" group-title="|UK| SPORTS",UK - SKY SPORTS ARENA FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577974
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportscrickethd.png" group-title="|UK| SPORTS",UK - SKY SPORTS CRICKET FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577973
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS F1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsf1hd.png" group-title="|UK| SPORTS",UK - SKY SPORTS F1 FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577972
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsgolfhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS GOLF FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577971
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmixhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS MIX FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577970
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsnewshd.png" group-title="|UK| SPORTS",UK - SKY SPORTS NEWS FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577969
-#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsracinghd.png" group-title="|UK| SPORTS",UK - SKY SPORTS RACING FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577968
-#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS ACTION FHD" tvg-logo="http://logo.protv.cc/picons/logos/skysportsactionhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS ACTION FHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/726827
-
-
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS VARIETY 4 HD" tvg-logo="" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS VARIETY 4 HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828102
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS VARIETY 3 HD" tvg-logo="" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS VARIETY 3 HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828103
-#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="UK - SUPERSPORTS VARIETY 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_variety-2.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS VARIETY 2 HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828104
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS VARIETY 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_variety-1.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS VARIETY 1 HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828105
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS CRICKET HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_cricket.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS CRICKET HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828106
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS RUGBY HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_rugby.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS RUGBY HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828107
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS FOOTBALL HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_football.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS FOOTBALL HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828108
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS MOTORSPORT HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/supersport-motorsport.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS MOTORSPORT HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828109
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS GRANDSTAND HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_grandstand.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS GRANDSTAND HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828110
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS GOLF HD" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-GOLF-TV.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS GOLF HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828111
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS PSL HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_psl.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS PSL HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828112
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS BLITZ HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_blitz.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS BLITZ HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828113
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS TENNIS HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/supersport_tennis.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS TENNIS HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828114
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS LIGA HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_liga.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS LIGA HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828115
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS PL HD" tvg-logo="" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS PL HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828116
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS PLAY 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_2.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS PLAY 2 HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828117
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPER SPORTS PLAY 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_1.png" group-title="|UK| WORLD SPORTS",UK - SUPER SPORTS PLAY 1 HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828118
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS ACTION HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_action.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS ACTION HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828119
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS MAXIMO HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_maximo.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS MAXIMO HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828120
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS EVENTS HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/supersport.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORTS EVENTS HD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/828121
-
-
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT MAXIMO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT MAXIMO UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577934
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT ACTION UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT ACTION UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577933
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPER SPORT PLAY 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport1.png" group-title="|UK| SPORTS",UK - SUPER SPORT PLAY 1 UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577932
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS PLAY 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport2.png" group-title="|UK| SPORTS",UK - SUPERSPORTS PLAY 2 UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577931
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT PL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT PL UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577930
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT LIGA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT LIGA UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577929
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT TENNIS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT TENNIS UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577928
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT CRICKET UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT CRICKET UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577916
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS BLITZ UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORTS BLITZ UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577927
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT PSL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT PSL UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577926
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT GOLF UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT GOLF UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577925
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT GRANDSTAND UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT GRANDSTAND UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577924
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport2.png" group-title="|UK| SPORTS",UK - SUPERSPORT VARIETY 2 UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577923
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport1.png" group-title="|UK| SPORTS",UK - SUPERSPORT VARIETY 1 UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577922
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT MOTORSPORT UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT MOTORSPORT UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577921
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT FOOTBALL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT FOOTBALL UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577920
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 4 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport4.png" group-title="|UK| SPORTS",UK - SUPERSPORT VARIETY 4 UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577919
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport3.png" group-title="|UK| SPORTS",UK - SUPERSPORT VARIETY 3 UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577918
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT RUGBY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT RUGBY UHD
-http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577917
