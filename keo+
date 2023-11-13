@@ -8,6 +8,15 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:39:EF:39&stream=52323
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo=" ", Sky Sports Mix HD ▶️ Back
 https://linear032-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmix50)/manifest_hd.mpd
 
-
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports1.jpg" ,Star Sports 1
+http://test-otv2.ftpbd.net/streams/110/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports2.jpg" ,Star Sports 2
+http://test-otv2.ftpbd.net/streams/121/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starselect1.jpg" ,Star Sports Select 1
+http://test-otv2.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starselect2.jpg" ,Star Sports Select 2
+http://test-otv2.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" ,Sony Sports 3
+http://test-otv2.ftpbd.net/streams/122/index.m3u8
 
 
