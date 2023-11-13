@@ -4,8 +4,14 @@
 http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=494214&extension=ts&play_token=kMlwxSstAF
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",sky sport f1
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:39:EF:39&stream=523239&extension=ts&play_token=lQXK4DyeV8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",VIAPLAY F1
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 
-#EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo=" ", Sky Sports Mix HD ▶️ Back
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",DAZN F1
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:b7:7b:0d&stream=55563&extension=ts&play_token=FOiQY1bX7z&sn2=
+
+
+#EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo=" ", Sky Sports Mix HD
 https://linear032-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmix50)/manifest_hd.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports1.jpg" ,Star Sports 1
@@ -23,11 +29,35 @@ http://test-otv2.ftpbd.net/streams/122/index.m3u8
 https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
 #EXTINF:-1, Sky Sport football
 https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
-
 #EXTINF:-1, Supper sport serie A
 https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Laliga M4
+https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
+#EXTINF:-1, Supper Sport PL
+https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
+
+#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Digi Sport 1
+http://kleineinzeige.com:8080/live/Alin_Mandy/EmmaAlin13/38531.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/starselect1.png" group-title="ICC World Cup 🛜 ", ✅ Star Sports Select 1 HD ✅
 http://test-otv1.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="http://otv.ftpbd.net/assets/images/Star%20Sports%20Select%2021667750897.png", ✅Star Sports Select HD 2
 http://test-otv1.ftpbd.net/streams/125/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="http://castlempire.site:8080/images/05f4fdddd91c95d8824f0824f100eba0.png" group-title="**DEPORTES HD-OP3**⚽",SKY SPORTS LA LIGA
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/281690.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PL | SKY SPORTS PREMIER" tvg-logo="http://castlempire.site:8080/images/6b15ca50305bd0029143bc10a6a18079.png" group-title="**PREMIER LEAGUE**⚽",PL | SKY SPORTS PREMIER
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/178325.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | Sky Sports Premiere League HD (UK)" tvg-logo="http://castlempire.site:8080/images/6b15ca50305bd0029143bc10a6a18079.png" group-title="**PREMIER LEAGUE**⚽",PL | Sky Sports Premiere League HD (UK)
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/178327.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES | SKY SPORTS LALIGA" tvg-logo="http://castlempire.site:8080/images/1b27bb3e847fa9b7befb79d2e48f341e.png" group-title="**LA LIGA ESPAÑA**⚽",ES | SKY SPORTS LALIGA
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/222078.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SKY Sports-Golf" tvg-logo="http://castlempire.site:8080/images/7d55d4ff425edfceb318b6ae7405920d.jpg" group-title="**DEPORTES HD**⚽",DEPORTES | SKY Sports-Golf
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/170058.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 | Sky Sports F1 FHD" tvg-logo="http://castlempire.site:8080/images/29c8e5e47e01cf8dfcdd47198bdf747d.png" group-title="**PACK  F1-TENNIS-CICLISMO**",F1 | Sky Sports F1 FHD
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/258269.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-PREMIER-LEAGUE.png" group-title="SkySport",SuperSport Tenis
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/258273.ts
