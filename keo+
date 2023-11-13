@@ -19,4 +19,15 @@ http://test-otv2.ftpbd.net/streams/125/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" ,Sony Sports 3
 http://test-otv2.ftpbd.net/streams/122/index.m3u8
 
+#EXTINF:-1, Sky Sport PL
+https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
+#EXTINF:-1, Sky Sport football
+https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
 
+#EXTINF:-1, Supper sport serie A
+https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/starselect1.png" group-title="ICC World Cup 🛜 ", ✅ Star Sports Select 1 HD ✅
+http://test-otv1.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="http://otv.ftpbd.net/assets/images/Star%20Sports%20Select%2021667750897.png", ✅Star Sports Select HD 2
+http://test-otv1.ftpbd.net/streams/125/index.m3u8
