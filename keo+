@@ -153,6 +153,10 @@ http://123.245.64.65:4040/udp/239.33.4.235:22350
 http://123.245.64.65:4040/udp/239.33.4.233:22330
 #EXTINF:-1 tvg-name="" group-title="卫视频道",沈阳新闻综合
 http://123.245.64.65:4040/udp/239.33.4.123:21230
+#EXTINF:-1 tvg-name="" group-title="卫视频道",city都市剧场
+http://123.245.64.65:4040/udp/239.33.5.95:23510
+
+
 
 
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
